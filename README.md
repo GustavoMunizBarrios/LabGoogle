@@ -1,2 +1,2 @@
 # LabGoogle
-Lab of google for test
+Lab of google for test. I am editing the README file. Adding some more details about the project description.
